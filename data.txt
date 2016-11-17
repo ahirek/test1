@@ -1,5 +1,1 @@
-<<<<<<< HEAD
  this is just a test demo
-=======
-I have to add this file only to enshure
->>>>>>> modifying data file from demo2
